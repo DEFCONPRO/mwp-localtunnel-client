@@ -1,0 +1,15 @@
+{
+  "name": "mwp-localtunnel-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "GPL-v3",
+  "dependencies": {
+    "socket.io-client": "^4.7.4"
+  }
+}
